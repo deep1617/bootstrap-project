@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;;
+}
+#title{
+    background-color: #ff4c68;
+    
+}
+.title1{
+    width: 60%;
+    /* margin: 0 auto 0 auto; */
+    /* padding: 5% 100%; */
+}
+.mynav{
+    padding-bottom: 4.5em;
+}
+
