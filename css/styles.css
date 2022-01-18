@@ -55,3 +55,29 @@ h3{
 p{
     color: #8f8f8f;
 }
+/* testimonials */
+#testimonials{
+    background-color: #ef8172;
+    padding: 10% 15%;
+    text-align: center;
+     color: #fff;
+}
+.testi-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 4% 4%;
+}
+h2{
+    width: 75%;
+    margin: 0 auto 0 auto;
+}
+/* press */
+#press{
+    background-color: #ef8172;
+    padding-bottom: 7%;
+    text-align: center;
+}
+.press{
+    width: 15%;
+    margin: 0 1%;
+}
