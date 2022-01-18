@@ -1,16 +1,57 @@
 body{
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat-bold', sans-serif;
 }
 #title{
     background-color: #ff4c68;
+    color: #fff;
     
 }
 .title1{
-    width: 60%;
-    /* margin: 0 auto 0 auto; */
+    width: 70%;
+    margin: 0 auto 0 auto;
     /* padding: 5% 100%; */
 }
 .mynav{
-    padding-bottom: 4.5em;
+    padding-top: 2.5rem;
+    padding-bottom: 4.5rem;
 }
-
+.navbar-brand{
+    font-size: 2.5rem;
+}
+.h1{
+    font-weight: bold;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+.btn{
+    /* padding: auto 2.5rem; */
+    width: 30%;
+    margin-left: 2%;
+}
+.fab{
+     margin-right: 5%;
+}
+.dog{
+    width: 60%;
+    margin-left: 10%;
+    transform: rotate(15deg)
+}
+/* feature section */
+#features{
+    padding: 10% 15%;
+    
+}
+.features{
+    text-align: center;
+}
+.fas{
+    color: #ef8172;
+    
+}
+h3{
+    font-family: 'Montserrat-bold';
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
